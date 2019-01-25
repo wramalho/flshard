@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/lore-tutoriais/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-01-25T08:47:26-02:00</updated>
-  <id>http://localhost:4000/tag/lore-tutoriais/feed.xml</id>
+  <link href="http://localhost:4000/flshard/tag/lore-tutoriais/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/flshard/" rel="alternate" type="text/html" />
+  <updated>2019-01-25T08:58:41-02:00</updated>
+  <id>http://localhost:4000/flshard/tag/lore-tutoriais/feed.xml</id>
 
   
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Aventure-se em Tybar</title>
-      <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Aventure-se em Tybar" />
+      <link href="http://localhost:4000/flshard/welcome" rel="alternate" type="text/html" title="Aventure-se em Tybar" />
       <published>2017-07-27T07:00:00-03:00</published>
       <updated>2017-07-27T07:00:00-03:00</updated>
-      <id>http://localhost:4000/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/welcome">Interpretação de personagens na terra dos seis povos
+      <id>http://localhost:4000/flshard/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/flshard/welcome">Interpretação de personagens na terra dos seis povos
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
